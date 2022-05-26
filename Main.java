@@ -1,3 +1,8 @@
+/**
+ * @author      Uddam Bhathal <Uddamsingh14@gmail.com>
+ * @version     1
+ * @since       1
+ */
 import java.util.Arrays;
 public class Main {
     //initializing global variables based on if the array is sorted or not
